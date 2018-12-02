@@ -5,7 +5,6 @@ package com.liw.dsaa.sp.array.request;
  * @author: Liw
  * @date: 2018/12/2 11:01
  * <p>
- * Copyright 2010-2018 TimaNetworks Inc. All rights reserved.
  */
 public class IndexRequest {
 

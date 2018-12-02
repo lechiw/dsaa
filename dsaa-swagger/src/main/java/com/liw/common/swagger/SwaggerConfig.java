@@ -6,7 +6,6 @@ import org.springframework.stereotype.Component;
  * @author: zhuchunlan
  * @date: 2018/3/15 13:49
  * <p>
- * Copyright 2010-2018 TimaNetworks Inc. All rights reserved.
  */
 @Component
 @ConfigurationProperties(prefix = "swagger")

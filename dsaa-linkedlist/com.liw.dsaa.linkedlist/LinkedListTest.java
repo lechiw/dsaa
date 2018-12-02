@@ -3,7 +3,6 @@
  * @author: Liw
  * @date: 2018/12/2 10:44
  * <p>
- * Copyright 2010-2018 TimaNetworks Inc. All rights reserved.
  */
 public class LinkedListTest {
     public static void main(String args[]){

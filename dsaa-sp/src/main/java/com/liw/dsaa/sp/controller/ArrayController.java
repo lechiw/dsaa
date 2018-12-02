@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
  * @author: Liw
  * @date: 2018/12/2 10:46
  * <p>
- * Copyright 2010-2018 TimaNetworks Inc. All rights reserved.
  */
 @RestController
 @RequestMapping("/array")
